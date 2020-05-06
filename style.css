@@ -1,0 +1,20 @@
+h1 {
+  color: purple;
+  font-family: georgia;
+  text-shadow: 2px 2px 2px #cacd58;
+}
+
+a {
+  text-transform: uppercase;
+  color: #cacd58;
+}
+
+.section__intro {
+  font-style: italic;
+  font-size: 24px;
+}
+
+h2 {
+  color: #cacd58;
+  font-family: georgia;
+}
