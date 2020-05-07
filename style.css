@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Roboto+Mono:ital,wght@0,300;0,700;1,400&display=swap');
+
+.text {
+  font-family: "Roboto Mono";
+}
+
+.inner {
+  color: brown;
+  font-weight: bold;
+}
+
+.title {
+  font-family: "Montserrat";
+  color: Purple;
+}
